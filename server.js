@@ -81,7 +81,7 @@ const SETUP_HTML = `<!DOCTYPE html>
       <option value="US">United States (US)</option>
     </select>
 
-    <button onclick="save()">Save & Test Connection</button>
+    <button onclick="save()">Save Connection</button>
     <div class="status" id="status"></div>
 
     <div class="step" id="step2">
